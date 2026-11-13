@@ -1,4 +1,4 @@
-// 2. Division
+// 2. Division (Good)
 // Intuition
 // This approach works by using a simple idea:
 // If we know the product of all non-zero numbers, we can easily compute the answer for each position using division — as long as there are no division-by-zero issues.
